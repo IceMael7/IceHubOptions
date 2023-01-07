@@ -1,15 +1,6 @@
 return {
-  Color = Color3.fromRGB(0, 0, 255)
-}
-
-return {
-  Title = "IceHub - Brookhaven v4.6.1"
-}
-
-return {
-  TitleColor = Color3.fromRGB(0, 0, 255)
-}
-
-return {
-  Owners = {"IceMael7", "grze2"}
+	Color = Color3.fromRGB(0, 0, 255),
+	Title = "IceHub - Brookhaven v4.6.1",
+	TitleColor = Color3.fromRGB(0, 0, 255),
+	Owners = {"IceMael7", "grze2"}
 }
