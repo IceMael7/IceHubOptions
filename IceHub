@@ -1,9 +1,9 @@
 return {
 	Color = Color3.fromRGB(0, 0, 255),
 	TitleColor = Color3.fromRGB(0, 0, 255),
-	Owners = {"IceMael7", "grze2"}
-	Discord1 = "Icy#4444"
-	Discord2 = "nillest#3135"
+	Owners = {"IceMael7", "grze2"},
+	Discord1 = "Icy#4444",
+	Discord2 = "nillest#3135",
 	BrookhavenTitle = "IceHub - Brookhaven v4.6.1",
 	SprayPaintTitle = "IceHub - SprayPaint v1",
 	AdoptMeTitle = "IceHub - AdoptMe",
