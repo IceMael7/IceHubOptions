@@ -8,5 +8,7 @@ return {
 	BrookhavenTitle = "IceHub - Brookhaven v4.6.1",
 	SprayPaintTitle = "IceHub - SprayPaint v1",
 	AdoptMeTitle = "IceHub - AdoptMe",
-	BerryAvenueTitle = "IceHub - BerryAvenue v1"
+	BerryAvenueTitle = "IceHub - BerryAvenue v1",
+	LivetopiaTitle = "IceHub - Livetopia v1",
+	PublicBathroomTitle = "IceHub - Public Bathroom v1"
 }
